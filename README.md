@@ -13,7 +13,11 @@ This project aims to predict the Price of an used Car by taking it's Company nam
 ## How to use?
 
 1. Clone the repository
-2. Install the required packages in "requirements.txt" file.
+2. setup the python environment 
+    python -m venv external
+3. Install the required packages in "requirements.txt" file.
+
+    pip install -r requirements.txt
 
 Some packages are:
  - numpy 
